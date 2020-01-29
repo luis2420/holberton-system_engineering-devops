@@ -2,3 +2,4 @@
 1-listit : display with ls files and directorys in current directory
 2-bring_me_home : this script changed from the current directory to home directory
 3-listfiles : display the files and directorys with other informatin long format
+4-listmorefiles : display files  hidden 
