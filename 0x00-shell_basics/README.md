@@ -8,3 +8,4 @@
 7-movethatfile : move a file to another place
 8-firstdelete : delete a file from a absolute pathname
 9-firstdirdeletion : delete holberton directory
+10-back : changed directory previous one
