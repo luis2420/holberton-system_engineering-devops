@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -mpaAx
+ls -mpaAx1
