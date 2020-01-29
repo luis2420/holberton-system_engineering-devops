@@ -6,3 +6,4 @@
 5-listfilesdigitonly : display files in long format and id
 6-firstdirectory : create a new directory with absolute pathname
 7-movethatfile : move a file to another place
+8-firstdelete : delete a file from a absolute pathname
