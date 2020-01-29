@@ -1,3 +1,2 @@
 #!/bin/bash
-ls -lagn
-
+ls -lag
